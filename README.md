@@ -52,13 +52,13 @@ lib/
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/USERNAME/bwa_cozy.git
+git clone https://github.com/USERNAME/bwa_chatty.git
 ```
 
 2. Masuk ke folder project:
 
 ```bash
-cd bwa_cozy
+cd bwa_chatty
 ```
 
 3. Install dependencies:
