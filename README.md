@@ -18,7 +18,6 @@ Proyek ini menampilkan halaman daftar teman dan grup (seperti pada referensi Wha
 - 👥 Daftar **Groups** dengan pesan terakhir
 - 🎨 Clean & Modern UI terinspirasi dari chat apps
 - 📱 Responsif untuk berbagai ukuran layar
-- 🧭 Navigasi sederhana antar halaman
 - ⚡ Performa ringan dengan Flutter
 
 ## 📸 Preview
