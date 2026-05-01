@@ -40,9 +40,9 @@ Proyek ini menampilkan halaman daftar teman dan grup (seperti pada referensi Wha
 
 ```bash
 lib/
-├── pages/         # Halaman UI (home, detail, splash)
-├── widgets/       # Komponen reusable (card, rating, dll)
-├── theme.dart     # Styling aplikasi
+├── pages/       
+├── widgets/      
+├── theme.dart    
 ```
 
 ---
@@ -108,4 +108,4 @@ Kalau kamu suka project ini:
 
 Project ini dibuat berdasarkan pembelajaran dari BWA (BuildWithAngga) sebagai bagian dari portofolio pribadi dengan beberapa penyesuaian dan pemahaman mandiri.
 
-> "Build. Learn. Improve. Repeat."
+> "Start simple, grow connected."
