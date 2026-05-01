@@ -89,8 +89,8 @@ Project ini dibuat untuk:
 ## 👨‍💻 Author
 
 **Mun'im Sudrajat**
-📌 Mahasiswa & Aspiring Software Engineer
-🚀 Fokus: Mobile Development
+* 📌 Mahasiswa & Aspiring Software Engineer
+* 🚀 Fokus: Mobile Development
 
 ---
 
