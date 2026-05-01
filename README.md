@@ -24,6 +24,7 @@ Proyek ini menampilkan halaman daftar teman dan grup (seperti pada referensi Wha
 <p align="center">
 <img width="30%" height="50%" alt="WhatsApp Image 2026-05-01 at 09 20 20" src="https://github.com/user-attachments/assets/976c4e87-b877-4a2e-ba0a-8ac7f4765a9e" />
 <img width="30%" height="50%" alt="WhatsApp Image 2026-05-01 at 09 20 21" src="https://github.com/user-attachments/assets/5365fff5-4f57-4203-95f6-d045fb8e688a" />
+</p>
 
 
 ## 🛠️ Tech Stack
@@ -33,36 +34,78 @@ Proyek ini menampilkan halaman daftar teman dan grup (seperti pada referensi Wha
 - **Material Design**
 - **Custom Widgets**
 
-## 📂 Project Structure
-lib/
-├── pages/ # Halaman utama (Friends, Groups)
-├── widgets/ # Komponen UI reusable (FriendCard, GroupCard)
-├── models/ # Data model (User, Group, Message)
-└── theme.dart # Tema dan styling
+---
 
+## 📂 Project Structure
+
+```bash
+lib/
+├── pages/         # Halaman UI (home, detail, splash)
+├── widgets/       # Komponen reusable (card, rating, dll)
+├── theme.dart     # Styling aplikasi
+```
+
+---
 
 ## 🚀 Getting Started
 
+1. Clone repository ini:
+
 ```bash
-git clone https://github.com/USERNAME/jf-connect.git
-cd jf-connect
+git clone https://github.com/USERNAME/bwa_cozy.git
+```
+
+2. Masuk ke folder project:
+
+```bash
+cd bwa_cozy
+```
+
+3. Install dependencies:
+
+```bash
 flutter pub get
+```
+
+4. Jalankan aplikasi:
+
+```bash
 flutter run
+```
 
+---
 
-## 🎯 Purpose
+## 🎯 Tujuan Project
+
 Project ini dibuat untuk:
 
-- Melatih pembuatan UI aplikasi finansial
-- Mengasah kemampuan layouting Flutter
-- Membuat desain modern yang siap dikembangkan
-- Menjadi bagian dari portfolio mobile developer
+* Melatih kemampuan Flutter
+* Memahami struktur project yang scalable
+* Membuat UI yang clean dan reusable
+* Menjadi bagian dari portofolio mobile developer
 
+---
 
 ## 👨‍💻 Author
-## Abdul Mun'im Sudrajat
-📱 Aspiring Mobile Developer
-💡 Fokus: Flutter & UI/UX
 
-## ⭐ Portfolio Note
-Project ini merupakan bagian dari perjalanan saya dalam membangun skill sebagai developer. Saya terbuka untuk peluang kerja, freelance, maupun kolaborasi.
+**Mun'im Sudrajat**
+📌 Mahasiswa & Aspiring Software Engineer
+🚀 Fokus: Mobile Development
+
+---
+
+## ⭐ Support
+
+Kalau kamu suka project ini:
+
+* ⭐ Star repo ini
+* 🍴 Fork untuk belajar
+* 💡 Beri feedback atau saran
+
+---
+
+## 🙏 Acknowledgement
+
+Project ini dibuat berdasarkan pembelajaran dari BWA (BuildWithAngga) sebagai bagian dari portofolio pribadi dengan beberapa penyesuaian dan pemahaman mandiri.
+
+> "Build. Learn. Improve. Repeat."
